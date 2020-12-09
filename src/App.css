@@ -1,0 +1,44 @@
+body {
+  background: #f1f1f1;
+  padding:70px;
+}
+
+div#crypto-container {
+  background:white;
+  width: 70%;
+  margin: 0 auto 4px auto;
+  padding: 20px;
+  box-shadow: 1px 1px 0 lightgrey;
+}
+
+div#currency-container {
+  padding-right: 270px;
+  padding-bottom: 80px;
+  
+}
+
+
+span.left {
+  font-weight: bolder;
+  font-size: 20px;
+}
+
+span.right {
+  float:right;
+}
+
+.form-control-sizing {
+  width: 70px; 
+  height: 30px;
+  margin-right: 10px;
+  font-weight: 700;
+}
+
+.text-prop{
+  font-size: 20px;
+ 
+}
+
+.temporary{
+  width: 1000px;
+}
