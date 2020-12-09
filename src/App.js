@@ -62,7 +62,7 @@ class App extends Component {
 
     setInterval(() => {
       this.componentDidMount();
-    }, 10000);
+    }, 15000);
 
   }
 
